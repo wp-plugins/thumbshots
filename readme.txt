@@ -1,6 +1,6 @@
 === Plugin Name ===
-Contributors: Antonie Potgieter
-Donate link: http://tribulant.com
+Contributors: Ian Blackford, Antonie Potgieter
+Donate link: http://www.designconscious.com/
 Tags: screenshots, thumbshots, websites, urls, website screenshots, images, thumbshots.com, wordpress
 Requires at least: 2.8
 Tested up to: 2.9.1
@@ -11,6 +11,8 @@ Put website screenshots into any WordPress post/page with a shortcode and a URL 
 == Description ==
 
 Quickly insert a thumbshot of any website with a shortcode and a URL as a parameter into any WordPress post/page. This plugin makes use of the Thumbshots.com service and can be used with either a free or a paid account.
+
+Thanks to Ian Blackford from <a href="http://www.designconscious.com/">Design Conscious</a> for the initial concept and funding of the plugin.
 
 == Installation ==
 
