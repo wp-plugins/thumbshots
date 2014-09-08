@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: Ian Blackford, Antonie Potgieter
+Contributors: contrid, Ian Blackford
 Donate link: http://www.designconscious.com/
 Tags: screenshots, thumbshots, websites, urls, website screenshots, images, thumbshots.com, wordpress
 Requires at least: 2.8
-Tested up to: 2.9.1
+Tested up to: 4.0
 Stable tag: 1.0.1
 
 Put website screenshots into any WordPress post/page with a shortcode and a URL as parameter.
