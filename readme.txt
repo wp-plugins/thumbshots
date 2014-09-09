@@ -1,10 +1,10 @@
-=== Plugin Name ===
+=== Tribulant Thumbshots ===
 Contributors: contrid, Ian Blackford
 Donate link: http://tribulant.com
 Tags: screenshots, thumbshots, websites, urls, website screenshots, images, thumbshots.com, wordpress
 Requires at least: 2.8
 Tested up to: 4.0
-Stable tag: 1.0.2
+Stable tag: 1.0.2.1
 
 Put website screenshots into any WordPress post/page with a shortcode and a URL as parameter.
 
@@ -45,7 +45,8 @@ Yes, you can use multiple instances on a post/page and on multiple posts/pages.
 
 == Changelog ==
 
-= 1.0.2 =
+= 1.0.2.1 =
+* Changed plugin name to `Tribulant Thumbshots`
 * Updated WordPress compatibilit to 4.0
 
 = 1.0.1 =
