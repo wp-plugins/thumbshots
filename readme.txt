@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: contrid, Ian Blackford
-Donate link: http://www.designconscious.com/
+Donate link: http://tribulant.com
 Tags: screenshots, thumbshots, websites, urls, website screenshots, images, thumbshots.com, wordpress
 Requires at least: 2.8
 Tested up to: 4.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Put website screenshots into any WordPress post/page with a shortcode and a URL as parameter.
 
@@ -45,13 +45,11 @@ Yes, you can use multiple instances on a post/page and on multiple posts/pages.
 
 == Changelog ==
 
-= 1.0 =
-* Initial release of the WordPress Thumbshots plugin.
+= 1.0.2 =
+* Updated WordPress compatibilit to 4.0
 
 = 1.0.1 =
-* Thanks to Ian Blackford for the initial concept and funding of the plugin.
-
-== Upgrade Notice ==
+* Thanks to Ian Blackford for the initial concept and funding of the plugin
 
 = 1.0 =
-* Get the awesome, first release of the WordPress Thumbshots plugin!
+* Initial release of the WordPress Thumbshots plugin.
