@@ -6,7 +6,7 @@ Plugin URI: http://tribulant.com
 Author: Antonie Potgieter
 Author URI: http://tribulant.com
 Description: Display website thumbnail previews on your WordPress website using Thumbshots.org. Put <code>[thumbshot url=http://domain.com]</code> into any WordPress post/page and specify any website address for the <code>url</code> parameter.
-Version: 1.0.2
+Version: 1.0.2.1
 */
 
 if (!defined('DS')) { define('DS', DIRECTORY_SEPARATOR); }
